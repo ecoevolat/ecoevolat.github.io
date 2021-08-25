@@ -14,15 +14,14 @@ author: Ixchel González-Ramírez
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  El club: "el_club"
+  El club:
     - Misión: "mision"
     - Visión: "vision"
     - Comité organizador: "comite"
     - Nuestros miembros: "miembros"
-  Próximos eventos: "proximos"
-  Eventos pasados:
-    - Videos: "videos"
-    - Reseñas: "resenas"
+  Eventos:
+    - Próximos eventos: "proximos"
+    - Eventos pasados: "pasados"
   Contacto: "contacto"
 
 # --- Logo --- #
