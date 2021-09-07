@@ -3,7 +3,7 @@ layout: post
 title: Reseñas de eventos pasados
 ---
 
-Hemos contado con la participación de una gran cantidad de científicos latinoamericanos que nos han compartido sus historias y conocimientos.  En nuestro primer post queremos compartirles las reseñas de nuestros primeros tres eventos. Da clic en las imágenes para ver los eventos grabados que están en nuestra página de youtube.
+Hemos contado con la participación de una gran cantidad de científicos latinoamericanos que nos han compartido sus historias y conocimientos.  En esta página pueden encontrar las reseñas de nuestros primeros tres eventos. Da clic en las imágenes para ver los eventos grabados que están en nuestra página de youtube.
 
 ****
 
