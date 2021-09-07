@@ -1,5 +1,5 @@
 ---
 layout: page
-title: miembros
+title: ¿quiénes somos?
 subtitle: 
 ---

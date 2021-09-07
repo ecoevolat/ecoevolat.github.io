@@ -15,10 +15,9 @@ author: Ixchel González-Ramírez
 
 navbar-links:
   El club:
-    - Misión: "mision"
-    - Visión: "vision"
+    - Acerca de: "acerca_de"
+    - Quiénes somos: "quienes_somos"
     - Comité organizador: "comite"
-    - Nuestros miembros: "miembros"
   Eventos:
     - Próximos eventos: "proximos"
     - Eventos pasados: "pasados"
