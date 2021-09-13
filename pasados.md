@@ -3,7 +3,7 @@ layout: page
 title: Reseñas de eventos pasados
 ---
 
-Hemos contado con la participación de una gran cantidad de científicos latinoamericanos que nos han compartido sus historias y conocimientos.  En esta página pueden encontrar las reseñas de nuestros primeros tres eventos. Da clic en las imágenes para ver los eventos grabados que están en nuestra página de youtube.
+Hemos contado con la participación de una gran cantidad de científicos y científicas latinoamericanos que nos han compartido sus historias y conocimientos.  En esta página pueden encontrar las reseñas de nuestros primeros tres eventos. Da clic en las imágenes para ver los eventos grabados que están en nuestra página de youtube.
 
 ****
 
@@ -11,7 +11,7 @@ Hemos contado con la participación de una gran cantidad de científicos latinoa
 ###### Dr. Carlos Guarnizo y MSc. Valeria Ramírez Castañeda
 _29 de abril del 2021_
 
-En nuestro tercer evento titulado Ciencia para tod@s: ¿por qué y cómo hacer divulgación científica?, el **Dr. Carlos Guarnizo** y la MSc. **Valeria Ramirez Castañeda** nos compartieron sus experiencias de hablar de ciencia principalmente fuera del ámbito científico. El evento fue organizado por nuestro subgrupo de Divulgación Científica y ocurrió el día 29 de abril de 2021.
+En nuestro tercer evento titulado Ciencia para tod@s: ¿por qué y cómo hacer divulgación científica?, el **Dr. Carlos Guarnizo** y la MSc. **Valeria Ramirez Castañeda** nos compartieron sus experiencias de hablar de ciencia principalmente fuera del ámbito científico. El evento fue organizado por nuestro subgrupo de Divulgación Científica.
 
 El Dr. Carlos Guarnizo trabaja en ecofisiología de las especies para entender su distribución y está asociado a la Universidad de los Andes, Colombia. La MSc. Valeria Ramirez Castañeda es estudiante de doctorado en la Universidad de California Berkeley, Estados Unidos, donde trabaja en la evolución de características de los individuos por medio de sus interacciones. 
 
@@ -27,7 +27,7 @@ Aquí dejamos algunas de las referencias que aparecieron en la charla y que vale
 ###### Dr. Luis Amador
 _9 de abril del 2021_
 
-En este evento se trata del estudio de la biodiversidad, distribución y diversificación de especies en el contexto de históricos de biogeografía. Utilizando diferentes herramientas como filogenias, genética de poblaciones e información geográfica y de fósiles. El Dr. Luis Amador, es ecuatoriano, está afiliado a la Universidad Austral de Chile. Sus trabajos se enfocan en entender el origen de la distribución de las especies. Ha trabajado con anfibios del Ecuador y con la familia Parastacidae de cangrejos de río.
+Este evento se trata del estudio de la biodiversidad, distribución y diversificación de especies en el contexto de históricos de biogeografía. Utilizando diferentes herramientas como filogenias, genética de poblaciones e información geográfica y de fósiles. El Dr. Luis Amador, es ecuatoriano, está afiliado a la Universidad Austral de Chile. Sus trabajos se enfocan en entender el origen de la distribución de las especies. Ha trabajado con anfibios del Ecuador y con la familia Parastacidae de cangrejos de río.
 
 En su charla, el **Dr. Amador**, explica los conceptos de biogeografía ecológica y biogeografía histórica.  Se presentan los conceptos de delimitación de especies como un aspecto central en la biología evolutiva. Sobre qué es la biogeografía y sus aplicaciones. Además, se discute sobre el contexto histórico de eventos biogeográficos en el continente Americano.
 
