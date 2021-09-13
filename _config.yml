@@ -233,9 +233,11 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
+  - jekyll-gist
+  - jekyll-twitter-plugin
+ 
+  # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
 
-theme: jekyll-theme-slate
+#theme: github-light

@@ -159,6 +159,7 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-titles-from-headings (0.5.3)
       jekyll (>= 3.3, < 5.0)
+    jekyll-twitter-plugin (2.1.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     jemoji (0.12.0)
@@ -232,6 +233,7 @@ DEPENDENCIES
   beautiful-jekyll-theme!
   bundler (>= 1.16)
   github-pages (~> 217)
+  jekyll-twitter-plugin
   rake (~> 12.0)
 
 BUNDLED WITH
