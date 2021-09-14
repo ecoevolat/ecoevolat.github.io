@@ -23,4 +23,4 @@ En esa reunión también estábamos interesad@s en saber cuáles son los proyect
 *Afiliación de loas personas de nuestra comunidad (hasta enero 2020)*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-¡La comunidad de científicos y científicas latinoamericanos que trabajan en ecología y evolución es grande! Estamos en muchos lugares y hacemos ciencia de calidad. Compartimos intereses y experiencias. Tenemos un idioma un común. Existe un gran potencial de colaboración y en nuestras manos está el aprovecharlo. 
+¡La comunidad de científicos y científicas latinoamericanos que trabajan en ecología y evolución es grande! Estamos en muchos lugares y hacemos ciencia de calidad. Compartimos intereses, experiencias y tenemos un idioma en común. Existe un gran potencial de colaboración y en nuestras manos está el aprovecharlo. 
