@@ -7,6 +7,13 @@ Hemos contado con la participación de una gran cantidad de científicos y cient
 
 ****
 
+### En búsqueda de una escala precisa de tiempo del árbol de la vida
+###### Dr. José Barba-Montoya, Universidad de Temple
+_30 de Septiembre del 2021_
+
+[![Link al video de jose](/assets/img/charlas/jose_barba.jpeg){: width="400"}{: .center}](https://www.youtube.com/embed/uHmd8fQD294)
+
+
 ### Divulgación científica
 ###### Dr. Carlos Guarnizo y MSc. Valeria Ramírez Castañeda
 _29 de abril del 2021_
