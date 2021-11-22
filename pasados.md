@@ -7,14 +7,47 @@ Hemos contado con la participación de una gran cantidad de científicos y cient
 
 ****
 
+### Hablemos de Diversidad, Equidad e Inclusión en ecología y evolución
+###### Dra. Ximena Bernal, Universidad de Purdue
+###### PhD candidate Jhan Salazar, Universidad de Washington
+_28 de Octubre del 2021_
+
+[![Link al video](/assets/img/charlas/dei.png){: width="400"}{: .center}](https://www.youtube.com/embed/8ntwA08hQko)
+
+****
+
 ### En búsqueda de una escala precisa de tiempo del árbol de la vida
 ###### Dr. José Barba-Montoya, Universidad de Temple
 _30 de Septiembre del 2021_
 
 [![Link al video de jose](/assets/img/charlas/jose_barba.jpeg){: width="400"}{: .center}](https://www.youtube.com/embed/uHmd8fQD294)
 
+****
 
-### Divulgación científica
+### Modelos estadísticos para el estudio de comunidades microbianas
+###### Dra. Claudia Solis Lemus, Universidad de Wisconsin-Madison
+_23 de Julio del 2021_
+
+[![Link al video de claudia](/assets/img/charlas/claudia_solis.png){: width="400"}{: .center}](https://www.youtube.com/embed/PKXf1W4bocQ)
+
+****
+
+### La importancia de la ontogenia en la ecología evolutiva de las interacciones bióticas
+###### Dra. Karina Boege, Universidad Nacional Autónoma de México
+_30 de Junio del 2021_
+
+[![Link al video de Karina](/assets/img/charlas/karina_boege.png){: width="400"}{: .center}](https://www.youtube.com/embed/zlzcMp_DhuE)
+
+****
+
+### La biodiversidad Amazónica: Presente, Pasado y Futuro
+###### Dra. Lúcia Lohmann, Universidad de São Paulo
+_15 de Junio de 2021_
+[![Link al video de Lucia](/assets/img/charlas/lucia_lohmann.png){: width="400"}{: .center}](https://www.youtube.com/embed/Zbq44zqnX8w)
+
+****
+
+### Divulgación científica: Ciencia para tod@s: ¿por qué y cómo hacer divulgación científica?
 ###### Dr. Carlos Guarnizo y MSc. Valeria Ramírez Castañeda
 _29 de abril del 2021_
 
