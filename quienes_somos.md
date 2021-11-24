@@ -4,7 +4,7 @@ title: ¿Quiénes somos?
 subtitle: 
 ---
 
-El club eco-evo latinoamérica está formado por ~300 científicos y científicas (conteo hasta Septiembre 2021) en distintos estados de sus carreras y de distintos países. Nos une el interés de estudiar diversos ecología y evolución y de discutir nuestras ideas en español. 
+El club eco-evo latinoamérica está formado por ~300 científicos y científicas (conteo hasta Septiembre 2021) en distintos estados de sus carreras y de distintos países. Nos une el interés de estudiar diversos temas de ecología y evolución, ademas de compartir nuestras ideas en español. 
 
 Para nuestra primera reunión, que ocurrió en Enero del 2020, lanzamos una encuestra en la que preguntamos a nuestra comunidad cuáles son sus intereses. He aquí una visualización de sus respuestas:
 
@@ -14,7 +14,7 @@ Para nuestra primera reunión, que ocurrió en Enero del 2020, lanzamos una encu
 
 Con esta imagen, queda clara la diversidad de intereses, pero también el interés común por entender la evolución de la biodiversidad y promover su conservación. Este no es un resultado sorprendete por sí mismo, si consideramos la abrumadora diversidad que existe en el neotrópico, y la complicada historia geológica que se halla detrás de la compleja evolución geológica del territorio en el que se sienta Latinoamérica. Es lógico que haya tanto interés y talento enfocado en estos temas.
 
-En esa reunión también estábamos interesad@s en saber cuáles son los proyectos en los que nuestros integrantes están trabajando y en qué instituciones trabajan. Aquí los resultados:
+En esa reunión también estábamos interesados e interesadas en saber cuáles son los proyectos en los que nuestros integrantes están trabajando y en qué instituciones trabajan. Aquí los resultados:
 
 ![que hacemos](/assets/img/Que_hacemos.png){: width="650"}  
 *Representación de las líneas de investigación actuales de las personas de nuestra comunidad (hasta enero 2020)*

@@ -11,9 +11,11 @@ Acompáñenos el lunes 29 de noviembre a la primera charla de uno de los miembro
 
 ![foto de luis](/assets/img/charlas/luis_santiago.jpeg){: width="800"}{: style="float: left; margin-right: 2em;"}
 
+****
 
+### Eco-Evo Latinoamerica en CLEVOL 2021
 
-
+Estamos emocionados de participar en el Primer Congreso Latinoamericano de Evolución. ¡Chequen nuestro póster! Nos encantaría conversar con ustedes.
 
 _
 

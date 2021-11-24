@@ -8,7 +8,7 @@ subtitle:
 El Club Eco-Evo Latinoamérica es un espacio creado por y para la comunidad científica latinoamericana interesada en Ecología y Evolución. Nuestra misión es promover espacios en los que se pueda conversar sobre ciencia en español. En el poco tiempo que llevamos, hemos alcanzado a miembros de todos los países latinoamericanos con interés en conversar en español. A través de nuestras acciones buscamos:
 
 * Visibilizar el trabajo de las científicas y los científicos latinoamericanos.
-* Promover la colaboración entre científic@s latin@s.
+* Promover la colaboración entre científicas y científicos latinoamericanos.
 * Ayudar en el desarrollo académico y personal de nuestra comunidad.
 * Divulgar oportunidades académicas y de financiamiento que puedan ser de interés para nuestro público.
 

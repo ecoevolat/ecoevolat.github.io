@@ -43,6 +43,9 @@ _30 de Junio del 2021_
 ### La biodiversidad Amazónica: Presente, Pasado y Futuro
 ###### Dra. Lúcia Lohmann, Universidad de São Paulo
 _15 de Junio de 2021_
+
+En el cuarto evento del año tuvimos el honor de compartir con la profesora **Lúcia Lohmann**, afiliada a la Universidad de São Paulo. La prof. Lohman nos contó sobre su trayectoria de su carrera y que la inspiró a estudiar en la Amazonía. Su interés la ha llevado a realizar estudios integrativos y multidisciplinarios para entender el origen y evolución de la biodiversidad Neotropical. Su trabajo se ha enfocado en la sistemática para catalogar especies, evolución de clados focales de especies claves, biogeografía de especies presentes en el Amazonas y geología para inferir patrones de climas pasados. Aparte de su rol como investigadora, la profesora Lóhmann ha trabajado en divulgación científica, integrar sectores privados, gubernamentales y sociedad en la investigación, y programas de educación.
+
 [![Link al video de Lucia](/assets/img/charlas/lucia_lohmann.png){: width="400"}{: .center}](https://www.youtube.com/embed/Zbq44zqnX8w)
 
 ****
