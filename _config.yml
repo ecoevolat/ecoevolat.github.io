@@ -19,6 +19,7 @@ navbar-links:
     - Quiénes somos: "quienes_somos"
     - Comité organizador: "comite"
   Eventos:
+    - Simposio 2022: "simposio"
     - Próximos eventos: "proximos"
     - Eventos pasados: "pasados"
   Contacto: "contacto"

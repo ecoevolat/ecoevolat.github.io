@@ -7,6 +7,21 @@ Hemos contado con la participación de una gran cantidad de científicos y cient
 
 ****
 
+### El movimiento trófico del sodio y su influencia en la respuesta de los organismos
+##### Luis Santiago-Rosario, LSU
+_29 de noviembre_
+En esta charla, el fundador del club Luis Santiago-Rosario nos habló sobre su investigación de doctorado. 
+
+![foto de luis](/assets/img/charlas/luis_santiago.jpeg){: width="800"}{: style="float: left; margin-right: 2em;"}
+
+****
+
+### Eco-Evo Latinoamerica en CLEVOL 2021
+
+Estamos emocionados de participar en el Primer Congreso Latinoamericano de Evolución. ¡Chequen nuestro póster! Nos encantaría conversar con ustedes.
+
+****
+
 ### Hablemos de Diversidad, Equidad e Inclusión en ecología y evolución
 ###### Dra. Ximena Bernal, Universidad de Purdue
 ###### PhD candidate Jhan Salazar, Universidad de Washington

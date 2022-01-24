@@ -4,19 +4,8 @@ title: Próximos eventos
 subtitle: 
 ---
 
-### El movimiento trófico del sodio y su influencia en la respuesta de los organismos
-##### Luis Santiago-Rosario, LSU
+Estamos muy entusiasmados por nuestro **primer Simposio**. Acompáñanos en este evento el **4 y 5 de Febrero**. Para conocer más acerca de él checa nuestra pestaña del simposio [aquí](/simposio.md).
 
-Acompáñenos el lunes 29 de noviembre a la primera charla de uno de los miembros de nuestro comité. En esta charla, el fundador del club Luis Santiago-Rosario nos hablará sobre su investigación de doctorado. 
-
-![foto de luis](/assets/img/charlas/luis_santiago.jpeg){: width="800"}{: style="float: left; margin-right: 2em;"}
-
-****
-
-### Eco-Evo Latinoamerica en CLEVOL 2021
-
-Estamos emocionados de participar en el Primer Congreso Latinoamericano de Evolución. ¡Chequen nuestro póster! Nos encantaría conversar con ustedes.
-
-_
-
-
+<p align="center">
+  <img src="/assets/img/simposio/logo_blanco.png" width="500">
+</p>
